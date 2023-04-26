@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@polkadot/util-crypto": "^2.8.1",
-    "@types/react-measure": "^2.0.6",
+    "@types/react-measure": "^2.0.8",
     "blakejs": "^1.1.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.1.7",
